@@ -25,7 +25,7 @@ class Dog
   end
   
   def self.clear_all
-    "Some code here"
+    @@all.clear
   end
   
 end
